@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Nilabh Kumar</h1>
 <h3 align="center" color="orange">A passionate Full stack Web developer and Programmer from India</h3>
 <br>
-<img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" height="300" src="kroppa-digital.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilabh2121&label=Profile%20views&color=FF0000&style=flat" alt="nilabh2121" /> </p>
 
