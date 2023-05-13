@@ -47,7 +47,7 @@
 <br>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilabh2121&show_icons=true&locale=en&theme=dark" alt="nilabh2121" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilabh2121&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="nilabh2121" /></p>
 <br>
 <hr>
 
