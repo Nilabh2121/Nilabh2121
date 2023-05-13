@@ -1,6 +1,6 @@
-<img src="![1668777250094](https://github.com/Nilabh2121/Nilabh2121/assets/74805255/99b41505-76df-4166-ad71-7d94b07de6dc)">
+<img src="1668777250094.jpeg">
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Nilabh Kumar</h1>
-<h3 align="center">A passionate Full stack Web developer from India</h3>
+<h3 align="center" color="orange">A passionate Full stack Web developer and Programmer from India</h3>
 <br>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -56,3 +56,7 @@
 <hr>
 
 <p align="left" width="90%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilabh2121&theme=dracula" alt="nilabh2121" /></a> </p>
+<br>
+
+
+
